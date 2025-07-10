@@ -4,9 +4,9 @@ This project contains a **UVM (Universal Verification Methodology)** based testb
 
 ---
 
-## 📚 Project Overview
+##  Project Overview
 
-- **Protocol**: AMBA APB 2.0/3.0
+- **Protocol**: AMBA APB 3.0
 - **Language**: SystemVerilog
 - **Verification Methodology**: UVM (IEEE 1800.2)
 - **Tools Supported**:
